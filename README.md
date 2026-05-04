@@ -32,7 +32,7 @@ Chart.js: Renderização interativa de dados e Data Storytelling.
 
 🌐 Acesso ao Painel Interativo
 
-Aceda à versão online e interativa da auditoria através do GitHub Pages:
+Aceda à versão online e interativa da auditoria através do GitHub Pages: https://norisfrancisco.github.io/auditoria-energia-mz/
 
 🔗 [Visualizar Dashboard de Auditoria de Energia: ](https://norisfrancisco.github.io/auditoria-energia-mz/)
 
