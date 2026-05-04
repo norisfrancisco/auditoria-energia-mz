@@ -34,7 +34,7 @@ Chart.js: Renderização interativa de dados e Data Storytelling.
 
 Aceda à versão online e interativa da auditoria através do GitHub Pages:
 
-🔗 Visualizar Dashboard de Auditoria de Energia: 
+🔗 [Visualizar Dashboard de Auditoria de Energia: ](https://norisfrancisco.github.io/auditoria-energia-mz/)
 
 (O painel inclui links diretos para a Estratégia Oficial da EDM para verificação cruzada de dados).
 
