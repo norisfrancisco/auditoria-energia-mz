@@ -4,10 +4,6 @@
 
 Este repositório contém o painel interativo de Auditoria Preditiva e Infraestrutura desenvolvido pela NORZEC - Inteligência Analítica. O projeto aplica Data Storytelling sobre dados abertos para mapear o impacto financeiro das perdas técnicas e fraudes na rede elétrica de Moçambique.
 
-📊 Pré-visualização do Dashboard
-
-(Gráfico interativo evidenciando a correlação de perdas por província. Aceda ao link abaixo para a experiência completa).
-
 🎯 Visão Estratégica do Projeto
 
 Em infraestruturas de grande escala, o maior dreno financeiro esconde-se nos dados. A NORZEC desenvolveu este dashboard para traduzir os relatórios anuais da Eletricidade de Moçambique (EDM) em inteligência visual e acionável para decisores governamentais e financiadores (Banco Mundial, BAD).
@@ -38,7 +34,7 @@ Chart.js: Renderização interativa de dados e Data Storytelling.
 
 Aceda à versão online e interativa da auditoria através do GitHub Pages:
 
-🔗 Visualizar Dashboard de Auditoria de Energia
+🔗 Visualizar Dashboard de Auditoria de Energia: 
 
 (O painel inclui links diretos para a Estratégia Oficial da EDM para verificação cruzada de dados).
 
